@@ -10,7 +10,8 @@ Pod::Spec.new do |s|
   s.author       = { "imrain" => "770345656@qq.com" }
   s.source       = { :git => 'https://github.com/imrain/TencentOpenAPI.git', :tag => s.version}
   s.requires_arc = true
-  s.vendored_frameworks = 'TencentOpenAPI⁩/TencentOpenAPI.framework'
+  s.vendored_frameworks = 'TencentOpenAPI/*.{framework}'
+  s.frameworks = "SystemConfiguration","Security","CoreTelephony","CFNetwork","CoreGraphics",
   #s.source_files = 'TencentOpenAPI'
   #s.public_header_files = 'runtime/TFRuntimeManager.h'
  
