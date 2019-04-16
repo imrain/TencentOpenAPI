@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "TencentOpenAPI"
+  s.name         = "TencentOpenAPI333"
   s.version      = "3.3.3"
   s.ios.deployment_target = '11.0'
   s.summary      = "腾讯SDK"
