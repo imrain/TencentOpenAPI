@@ -1,4 +1,4 @@
-Copyright (c) 2019-2020 ZYRunTimeCoT (https://github.com/imrain/TencentOpenAPI)
+Copyright (c) 2019-2020 IMRAIN (https://github.com/imrain/TencentOpenAPI)
 
 
 
